@@ -2,7 +2,7 @@
   "name": "coinese_convert",
   "version": "1.0.0",
   "description": "簡繁轉換 (簡體轉繁體，繁體轉簡體)",
-  "main": "chineseConvert.js",
+  "main": "chinese_convert.js",
   "dependencies": {},
   "devDependencies": {
     "mocha": "^3.1.0"
