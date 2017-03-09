@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://travis-ci.org/ccckmit/chineseConvert"><img src="https://img.shields.io/travis/ccckmit/chineseConvert.svg" alt="Travis"></a>
+  <a href="https://travis-ci.org/ccckmit/chinese_convert"><img src="https://img.shields.io/travis/ccckmit/chinese_convert.svg" alt="Travis"></a>
   <a href="http://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
-  <a href="https://www.npmjs.com/package/chineseConvert"><img src="https://img.shields.io/npm/dm/chineseConvert.svg" alt="npm downloads"></a>
-  <a href="https://www.npmjs.com/package/chineseConvert"><img src="https://img.shields.io/npm/v/chineseConvert.svg" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/chinese_convert"><img src="https://img.shields.io/npm/dm/chinese_convert.svg" alt="npm downloads"></a>
+  <a href="https://www.npmjs.com/package/chinese_convert"><img src="https://img.shields.io/npm/v/chinese_convert.svg" alt="npm version"></a>
 </p>
 
-# chineseConvert
+# chinese_convert
 
 ## Install
 
 ```
-$ npm install chineseConvert
+$ npm install chinese_convert
 ```
 
 ## Example
@@ -18,7 +18,7 @@ $ npm install chineseConvert
 File: ex1.js
 
 ```
-var convert = require('../chineseConvert')
+var convert = require('chinese_convert')
 var cn = '简繁转换功能测试'
 var tw = convert.cn2tw(cn)
 var cn2 = convert.tw2cn(tw)
