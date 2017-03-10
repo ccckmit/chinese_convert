@@ -18,10 +18,10 @@
     "cn",
     "tw"
   ],
-  "homepage": "https://github.com/ccckmit/chineseConvert",
+  "homepage": "https://github.com/ccckmit/chinese_convert",
   "repository": {
     "type": "git",
-    "url": "http://github.com/ccckmit/chineseConvert.git"
+    "url": "http://github.com/ccckmit/chinese_convert.git"
   },
   "author": {
     "name": "Chung-Chen Chen",
