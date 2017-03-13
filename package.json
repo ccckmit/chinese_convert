@@ -1,5 +1,5 @@
 {
-  "name": "coinese_convert",
+  "name": "chinese_convert",
   "version": "1.0.3",
   "description": "簡繁轉換 (簡體轉繁體，繁體轉簡體)",
   "main": "chinese_convert.js",
